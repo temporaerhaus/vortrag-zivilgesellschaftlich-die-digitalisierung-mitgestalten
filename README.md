@@ -2,7 +2,12 @@
 
 Folien und Materialien für den Vortrag. Bisher gehalten und weiterentwickelt:
 * 28.11.2022, _Civic Tech: Zivilgesellschaftlich die Digitalisierung mitgestalten?_ als Beitrag im Seminar [Digitalisierung in Baden-Württemberg digital.Länd](https://www.lpb-bw.de/einzelansicht-aktuell/digitalisierung-in-baden-wuerttemberg-digital-laen-28-11-2022) der [lpb bw](https://www.lpb-bw.de), des [Netzwerk sii bw](https://netzwerk-sii-bw.de/) und des [ZAWiW der Uni Ulm](https://www.uni-ulm.de/einrichtungen/zawiw/).
+  * [Präsentation](https://github.com/verschwoerhaus/vortrag-zivilgesellschaftlich-die-digitalisierung-mitgestalten/blob/main/2022-11-28-civic_tech-zivilgesellschaftlich_digitalisierung_mitgestalten-Digitalisierung%20in%20Baden-W%C3%BCrttemberg%20digital.L%C3%A4nd.pdf)
+  * Aufzeichnung: folgt vorrausichtlich.
 * 22.06.2022, _[Zivilgesellschaftlich die Digitalisierung mitgestalten? Stimmen aus dem Verschwörhaus](https://www.vh-ulm.de/vh-programm/kurs-finder/detail/kurs/zukunftsstadt-ulm-zivilgesellschaftlich-die-digitalisierung-mitgestalten/21H0841010)_ im Rahmen der [Vortragsreihe Zukunftsstadt Ulm](https://www.ulm.de/leben-in-ulm/digitale-stadt/meldungen/vortragsreihe_vh-_2021_okt) der [vh ulm](vh-ulm.de), des [ZAWiW der Uni Ulm](https://www.uni-ulm.de/einrichtungen/zawiw/) und der [Stadt Ulm](https://www.ulm.de/). Spezifische Informationen und Dateien zu dieser ersten Variante sollen noch in diesem [Zweig](https://github.com/verschwoerhaus/vortrag-zivilgesellschaftlich-die-digitalisierung-mitgestalten/tree/2022-06-22-vh-ulm) dokumentiert werden.
+  * Präsentation: soll noch folgen.
+  * Skript: soll noch folgen.
+  * Aufzeichnung: soll noch folgen.
 
 
 ## Empfohlene Lektüre
